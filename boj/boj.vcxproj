@@ -140,10 +140,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="boj 10814.cpp" />
+    <ClCompile Include="boj 11866.cpp" />
+    <ClCompile Include="boj 1926.cpp" />
+    <ClCompile Include="boj 2164.cpp" />
+    <ClCompile Include="boj 2178 미로 탐색.cpp" />
     <ClCompile Include="boj 2346.cpp" />
     <ClCompile Include="boj 1406.cpp" />
+    <ClCompile Include="boj 7576 토마토.cpp" />
     <ClCompile Include="boj 9093.cpp" />
     <ClCompile Include="boj 2108.cpp" />
+    <ClCompile Include="stl 연습.cpp" />
     <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
